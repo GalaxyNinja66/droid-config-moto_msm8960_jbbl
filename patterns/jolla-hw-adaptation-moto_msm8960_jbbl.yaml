@@ -38,6 +38,9 @@ Requires:
 - qt5-qpa-hwcomposer-plugin
 - qtscenegraph-adaptation
 
+# Flashlight in events view
+- jolla-settings-system-flashlight
+
 # Add GStreamer v1.0 as standard
 - gstreamer1.0
 - gstreamer1.0-plugins-good
